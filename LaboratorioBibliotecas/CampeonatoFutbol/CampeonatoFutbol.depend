@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1743297719 source:c:\users\astri\onedrive\documentos\ejerciciosenclase - proga i\campeonatofutbol\src\equipo.cpp
+	"equipo.h"
+
+1743296753 c:\users\astri\onedrive\documentos\ejerciciosenclase - proga i\campeonatofutbol\include\equipo.h
+	<string>
+
+1743300099 source:c:\users\astri\onedrive\documentos\ejerciciosenclase - proga i\campeonatofutbol\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"campeonato.h"
+
+1743302317 c:\users\astri\onedrive\documentos\ejerciciosenclase - proga i\campeonatofutbol\include\campeonato.h
+	"equipo.h"
+	<vector>
+
+1743300240 source:c:\users\astri\onedrive\documentos\ejerciciosenclase - proga i\campeonatofutbol\src\campeonato.cpp
+	"campeonato.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+
